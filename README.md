@@ -1,6 +1,6 @@
 # OpenSocial
 
-Open-source social media content generation, approval, scheduling, and publishing platform built with Fastify, React, TypeScript, and PostgreSQL. It includes a monorepo API, a web control panel, shared schemas/types, and platform-specific publishing adapters for Meta, LinkedIn, X, TikTok, and YouTube.  
+Open-source social media content generation, approval, scheduling, and publishing platform built with Fastify, React, TypeScript, and PostgreSQL. It includes a monorepo API, a web control panel, shared schemas/types, and platform-specific publishing adapters for Meta, LinkedIn, X, TikTok, and YouTube. OpenAI-compatible APIs can also be used for AI-powered content generation.  
 
 ## Features
 
