@@ -1,0 +1,10 @@
+{
+  "name": "social-ai-product",
+  "private": true,
+  "workspaces": ["apps/*", "packages/*"],
+  "scripts": {
+    "dev": "npm run dev -w @social-ai/api & npm run dev -w @social-ai/web",
+    "build": "npm run build -ws",
+    "typecheck": "npm run typecheck -ws"
+  }
+}
